@@ -17,6 +17,8 @@
 
 ### 第1课 - [Terminal]是什么
 
+part 1
+
 * 电脑是什么?
 * 操作系统是什么?
 * 苹果电脑还是Windows?
@@ -24,17 +26,32 @@
 * hello world!
 * 我在哪里 - pwd
 * 我是谁 - ls
+    + ls -lhtp
 * 我要去哪 - cd
 * less is more - less
 * nano is huge - nano
+
+part 2
+
+* some mac tricks 
+    + ALt + <-, Alt + delete
+    + Command + <-, Command + delete
+* get help - man
+    + man ls
 * 围城 - cp, mv
 * 开天辟地 - mkdir
 * sayonara - rm, rmdir
 * 虎头蛇尾 - head, tail
 * 马里奥管道工 - pipe
+    + ls -lhgt | head -n 1
 * 捉迷藏 - grep
+    + ls -lhgt | grep -i cat
 * 数一数 - wc
 * yyds - 什么是正则表达式
+    + https://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf
+    + ^, $
+    + ., *, +
+    + \d, \D, \w, \W, \s, \t
 
 
 
