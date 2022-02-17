@@ -30,6 +30,7 @@ part 1
 * 我要去哪 - cd
 * less is more - less
 * nano is huge - nano
+* exit - q or ctrl-z
 
 part 2
 
