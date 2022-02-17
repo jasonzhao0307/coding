@@ -27,6 +27,7 @@ part 1
 * 我在哪里 - pwd
 * 我是谁 - ls
     + ls -lhtp
+* Tab is your friend! Use it more often :) 
 * 我要去哪 - cd
 * less is more - less
 * nano is huge - nano
