@@ -54,6 +54,7 @@ part 2
 * 捉迷藏 - grep
     + ls -lhgt | grep -i cat
 * 数一数 - wc
+* output >
 * yyds - 什么是正则表达式
     + https://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf
     + ^, $
