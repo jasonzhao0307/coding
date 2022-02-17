@@ -29,6 +29,9 @@ part 1
     + ls -lhtp
 * Tab is your friend! Use it more often :) 
 * 我要去哪 - cd
+* what is .
+* what is ..
+* what is ../../
 * less is more - less
 * nano is huge - nano
 * exit - q or ctrl-z
@@ -40,6 +43,8 @@ part 2
     + Command + <-, Command + delete
 * get help - man
     + man ls
+* what is ~
+* absolute path vs relative path
 * 围城 - cp, mv
 * 开天辟地 - mkdir
 * sayonara - rm, rmdir
